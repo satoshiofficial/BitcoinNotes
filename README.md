@@ -1351,4 +1351,5 @@ The ability to include a Tesla ASIC/Node within a Tesla vehicle?
 Research into official Bitcoin/Blockchain flag (?)
 
 Blockchain “flag/symbol” (?)
-p
+
+https://github.com/satoshiofficial/BitcoinNotes/blob/716303c787e3d8092a7017e05e8fcbfcd5dc9974/Bitcoin_Blockchain_Symbol.png
