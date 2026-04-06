@@ -212,7 +212,7 @@ End notes from aforementioned theses
 - Tesla road-trip app marketplace/store: PVNCHBVG
 - PEDIGREEN? PAINTPET
 - BROCCOLI PARTY
-- Yeti (Jace, Liz?)
+- Yeti (?)
 - DOROTHY (DoRoTHy)
 - Tensor Calculus, Principles of Neuroplasticity - biological element, neuroscience and neuroplasticity of true data intelligence
 - Mechanics of Lorentz Transactions
