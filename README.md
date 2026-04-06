@@ -20,8 +20,6 @@ Satoshi Nakamoto
 - ASIC 2.0 (?)
 - PoW to PoS (?)
 - Retail Blockchain first-iteration idea(s)
-- Second Grade - Jolly Green Giant, Halloween costume
-- Make Asparagus Great Again: A Holistic Approach
 - Legal thinking and its approach to the complex nature of APIs, converters and the next-to-near incredibly convoluted intersection of 1st and 2nd Amendment laws and understandings – notes for possible later discourse on non-H.264, non-UDP-broadcastable tech in global/local Cybersecurity re…
 - "C.C.C."-like Union for Coders, Programmers, Digital Skilled Labor
 - Y2k, YKK – what's the diff, what's it all about
